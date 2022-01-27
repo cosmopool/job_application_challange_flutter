@@ -1,5 +1,5 @@
 import 'package:test/test.dart';
-import '../challange_one.dart';
+import '../challenge_one.dart';
 
 main() {
   test('Should not accept non-numeric input', () {
